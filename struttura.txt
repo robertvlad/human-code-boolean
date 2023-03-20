@@ -1,0 +1,21 @@
+Comprare qualcosa su Amazon per Silvia.
+
+1 - Cercare tipo di regalo su internet;
+
+2 - Aprire Amazon;
+
+3 - Cercare una lampada da tavolo;
+
+	? SE la consegna è prime
+
+		Comprare la lampada
+	
+	ALTRIMENTI Cercare una penna stilografica
+	
+		? SE la penna stilografica è nel mio budget
+
+			Comprare la penna stilografica
+
+		ALTRIMENTI Cercare un libro
+
+			Comprare il libro
